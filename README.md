@@ -171,10 +171,10 @@ Get up and running in under 2 minutes:
 
 ```bash
 # Add marketplace
-/plugin marketplace add https://github.com/affaan-m/everything-claude-code
+/plugin marketplace add https://github.com/zhenhan18/ecc
 
 # Install plugin
-/plugin install everything-claude-code@everything-claude-code
+/plugin install ecc@ecc
 ```
 
 ### Naming + Migration Note
